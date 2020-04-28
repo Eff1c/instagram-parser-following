@@ -1,1 +1,1 @@
-# instagram-parser-following
+# instagram-parser-unfollowing
